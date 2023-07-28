@@ -1,0 +1,9 @@
+import shipment of April 12, 2007
+# tab separated data
+Bird	Golden Eagle	Eddie
+Mammal	Tiger	Tommy
+Mammal	Lion	Leo
+Mammal	Elephant	Eddie
+Bird	Parrot	Polly
+# last one next
+Reptile	Cobra	Colin

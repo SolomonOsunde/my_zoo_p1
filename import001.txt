@@ -1,0 +1,5 @@
+Bird	Golden Eagle	Eddie
+Mammal	Tiger	Tommy
+Mammal	Lion	Leo
+Bird	Parrot	Polly
+Reptile	Cobra	Colin

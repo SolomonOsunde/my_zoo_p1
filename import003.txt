@@ -1,0 +1,14 @@
+import shipment of July 2014
+# tab separated data
+# data of form: class species name other attributes
+Bird	Golden Eagle	Eddie	true	true
+Mammal	Tiger	Tommy	brown	78
+Mammal	Lion	Leo	rusty	105
+Bird	Emu	Emily	false	89
+Mammal	Lion	Leslie	copper	98	
+Mammal	Elephant	Eddie	62
+Bird	Parrot	Polly	true	120
+Bird	Golden Eagle	Jimmy	true	true
+Bird	Golden Eagle	Gordon	true	false
+# last one next
+Reptile	Cobra	Colin	true
